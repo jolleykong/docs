@@ -196,12 +196,12 @@ msgstr "删除是从一个集合中删除文档的操作。MongoDB提供下列�
 # 4fce29d057e9420d97f9add29dc29f79
 #: ../source/crud.txt:94
 msgid ":method:`db.collection.remove()`"
-msgstr ":method:`db.collection.insert()`"
+msgstr ":method:`db.collection.remove()`"
 
 # 614289056fa94be38a0e9ab38af3c23e
 #: ../source/crud.txt:96
 msgid ":method:`db.collection.deleteOne()` |versionadded|"
-msgstr ":method:`db.collection.insertOne()` |versionadded|"
+msgstr ":method:`db.collection.deleteOne()` |versionadded|"
 
 # 50e3bdd8a07947798fb94c396fdfb847
 #: ../source/crud.txt:98
